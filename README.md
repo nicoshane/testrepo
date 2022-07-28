@@ -1,2 +1,2 @@
 # testrepo
-Coursera IBM Cloud Developer test repository
+Coursera IBM Full Stack Developer Test Repository
